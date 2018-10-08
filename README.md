@@ -5,6 +5,9 @@
 ## This app is for Installing macOS Mojave (Working and Testing Inside macOS 10.12 to macOS Mojave 10.14.
 
   - Contain Chameleon Bootloader revision v2.4svn r2910
+  - Installer version: Chameleon Enoch - v2.4svn -rev 2910
+  - Build Xcode  9.2 (9C40b) ( date 2018-07-15 22:53:50 ) 
+  ======================================================
   - Working for Legacy configurations
 
 * What you need
