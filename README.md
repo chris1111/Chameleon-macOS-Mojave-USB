@@ -20,7 +20,7 @@
    - dosdude1 for the patch
    - Chameleon Team
    - crazybirdy Fixing Chamelon for 10.14
-   - Tester
+   - Tester: arcade33
 
 ### Follow every steps in the two Video
 
