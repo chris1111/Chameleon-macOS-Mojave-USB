@@ -7,9 +7,6 @@
   - Conatain Chameleon Bootloader revision v2.4svn r2910
   - Working for Legacy configurations
 
-
-### Real Mac users, you have not used the Clover Bootloader, as simple as that.
-
 * What you need
 
    - Disable the security SIP and Gatekeeper on your Mac
