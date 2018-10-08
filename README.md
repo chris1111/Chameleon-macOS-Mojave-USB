@@ -22,12 +22,13 @@
    - crazybirdy Fixing Chamelon for 10.14
    - Tester
 
-Follow every steps in the two Video
-USB Installer
+### Follow every steps in the two Video
+
+### USB Installer
                            
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/macosm10.png)](https://youtu.be/dG5HG60EzT0)
 
-Post Installer
+### Post Installer
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/macosm10.png)](https://youtu.be/FSF5oO4VDUA)
 
