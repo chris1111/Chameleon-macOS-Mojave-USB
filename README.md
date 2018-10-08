@@ -16,7 +16,8 @@
    - Blank USB key 8 gig for Install macOS
    - Install macOS Mojave.app (From Mac App Store)
  
-* Credit: 
+* Credit:
+   - Complete Program: chris1111
    - dosdude1 for the patch
    - Chameleon Team
    - crazybirdy Fixing Chamelon for 10.14
