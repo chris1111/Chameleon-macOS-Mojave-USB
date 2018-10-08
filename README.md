@@ -4,7 +4,7 @@
 
 ## This app is for Installing macOS Mojave (Working and Testing Inside macOS 10.12 to macOS Mojave 10.14.
 
-  - Conatain Chameleon Bootloader revision v2.4svn r2910
+  - Contain Chameleon Bootloader revision v2.4svn r2910
   - Working for Legacy configurations
 
 * What you need
