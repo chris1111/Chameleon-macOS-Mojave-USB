@@ -9,6 +9,7 @@
   - Build Xcode  9.2 (9C40b) ( date 2018-07-15 22:53:50 ) 
   ======================================================
   - Working for Legacy configurations
+  - At the moment Chameleon is not working on APFS file System, so be sure to install macOS Mojave in HFS+J / GUID or MBR
 
 * What you need
 
