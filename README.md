@@ -34,4 +34,4 @@
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/macosm10.png)](https://youtu.be/FSF5oO4VDUA)
 
 
-[Download ➤ Chameleon-macOS-Mojave-USB.dmg.zip](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases/tag/V1)
+[Download ➤ Chameleon-macOS-Mojave-USB.dmg](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases)
