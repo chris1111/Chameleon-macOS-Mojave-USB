@@ -5,7 +5,7 @@
 #### Screenshot output
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu240.png)
 
-## Simple app for Installing macOS Mojave (Working and Testing Inside macOS 10.12 to macOS Mojave 10.14.
+#### Simple app for Installing macOS Mojave (Working and Testing Inside macOS 10.12 to macOS Mojave 10.14.
 
   - Contain Chameleon Bootloader revision v2.4svn r2910
   - Installer version: Chameleon Enoch - v2.4svn -rev 2910
