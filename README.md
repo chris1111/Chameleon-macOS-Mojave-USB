@@ -6,10 +6,10 @@
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu240.png)
 
 #### Simple app for Installing macOS Mojave (Working and Testing Inside macOS 10.12 to macOS Mojave 10.14.
-
-  - Contain Chameleon Bootloader revision v2.4svn r2910
-  - Installer version: Chameleon Enoch - v2.4svn -rev 2910
-  - Build Xcode  9.2 (9C40b) ( date 2018-07-15 22:53:50 ) 
+  - Update Release 05 Oct 2019 Release V2 Update Chameleon Enoch r2922
+  
+  - Installer version: Chameleon Enoch - v2.4svn -rev 2922
+  - Build Xcode  9.2 (9C40b) ( date 2019-10-05 10:57:34 ) 
   ======================================================
   - Working for Legacy configurations
   - At the moment Chameleon is not working on APFS file System, so be sure to install macOS Mojave in HFS+J / GUID or MBR
@@ -38,4 +38,4 @@
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/macosm10.png)](https://youtu.be/FSF5oO4VDUA)
 
 
-[Download ➤ Chameleon-macOS-Mojave-USB.dmg](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases)
+[Download ➤ Chameleon-macOS-Mojave-USB.dmg](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases/tag/V2)
