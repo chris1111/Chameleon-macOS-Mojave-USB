@@ -2,6 +2,9 @@
 - This is to test macOS
 - Buy a mac after testing macOS
 
+#### Test latest macOS Mojave 10.14.6 (18G3020)
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen34.jpg)
+
 #### Screenshot output
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu240.png)
 
@@ -37,5 +40,6 @@
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/macosm10.png)](https://youtu.be/FSF5oO4VDUA)
 
+[Download V3 ➤ Chameleon-macOS-Mojave-USB.dmg](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases/tag/V3)
 
-[Download ➤ Chameleon-macOS-Mojave-USB.dmg](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases/tag/V2)
+
