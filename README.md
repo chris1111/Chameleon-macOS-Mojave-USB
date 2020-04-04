@@ -4,6 +4,9 @@
 # Chameleon-macOS-Mojave-USB
 - This is to test macOS
 - Buy a mac after testing macOS
+- Update Release 04 April 2020
+Fix issue creating the Mojave USB installer on macOS Catalina + EFI Chameleon
+
 
 #### Test latest macOS Mojave 10.14.6 (18G103)
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen34.jpg)
@@ -43,6 +46,6 @@
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/macosm10.png)](https://youtu.be/FSF5oO4VDUA)
 
-[Download V3 ➤ Chameleon-macOS-Mojave-USB.dmg](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases/tag/V2)
+[Download V3 ➤ Chameleon-macOS-Mojave-USB.dmg](https://github.com/chris1111/Chameleon-macOS-Mojave-USB/releases/tag/V3)
 
 
